@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Athul P. T!
+# 👋 Hey there, I'm Athul P T!
 
 🎓 I'm a final-year BCA student from Calicut University, passionate about:
 - 💻 Software Development (Python, Django, Flutter)

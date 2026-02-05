@@ -56,7 +56,7 @@ This repository showcases my **data analysis projects, dashboards, and hands-on 
 ## 📬 Contact Me
 
 📧 Email: athul9448@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/athul-pt-6a5310341  
+🔗 LinkedIn: https://www.linkedin.com/in/athul-pt-0471-/  
 
 ---
 

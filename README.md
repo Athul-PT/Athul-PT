@@ -1,26 +1,63 @@
-# 👋 Hey there, I'm Athul P T!
+# 📊 Data Analyst Portfolio – Athul PT
 
-🎓 I'm a final-year BCA student from Calicut University, passionate about:
-- 💻 Software Development (Python, Django, Flutter)
-- 📊 Data Analysis (Pandas, Excel, SQL basics)
+🎯 Aspiring **Data Analyst** | Python | SQL | Excel | Tableau | Power BI  
 
-## 🚀 Projects I'm proud of
-- 🧠 **Part Time Connect**  
-  A centralized platform for part-time job seekers and job providers  
-  `Tech: Python | Django | Flutter `
+---
 
-- 📊 **Student Result Analyzer** *(Mini project)*  
-  A tool to calculate and visualize student results using Excel & Python  
-  `Tech: Python | Matplotlib | Pandas`
+## 👨‍💻 About Me
 
-## 🛠️ Tech Stack
-```bash
-Languages: Python, HTML/CSS, JavaScript (basics), SQL  
-Frameworks: Django, Flutter  
-Tools: Git, GitHub, VS Code, Excel, Power BI (learning)  
+I am a **BCA graduate** currently pursuing a **Data Analyst course**.  
+I am passionate about working with data—cleaning, analyzing, and visualizing it to uncover insights that support business decisions.
 
+This repository showcases my **data analysis projects, dashboards, and hands-on practice** across multiple tools.
 
-<!---
-Athul-PT/Athul-PT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🧠 Skills & Tools
+
+### 🔹 Programming & Querying
+- Python (Pandas, NumPy)
+- SQL (MySQL)
+
+### 🔹 Data Analysis & Visualization
+- Excel (Pivot Tables, VLOOKUP, XLOOKUP)
+- Tableau (Dashboards, Calculated Fields, Filters)
+- Power BI (DAX, Power Query, Interactive Reports)
+- Matplotlib & Seaborn
+
+### 🔹 Core Concepts
+- Data Cleaning & Preprocessing  
+- Exploratory Data Analysis (EDA)  
+- KPI & Business Metrics  
+- Dashboard Design
+
+---
+
+## 📂 Projects
+
+| Project Name | Description | Tools |
+|-------------|-------------|-------|
+| WWI Dashboard – Institutional Metrics | Designed an interactive Power BI dashboard to track admissions, finance, and student performance metrics | Power BI |
+| Data Analysis Using Dashboards | Generated financial summaries and operational insights from structured data | Excel |
+| Airport Operations Analysis | Evaluated flight traffic, delays, and passenger trends using airport operations data | Tableau |
+| Market Analysis | Performed EDA to uncover revenue trends in sales and customer data | SQL |
+
+---
+
+## 🚀 Goals
+
+- Transition into a professional **Data Analyst** role  
+- Build impactful real-world projects  
+- Strengthen SQL, Python, Tableau, and Power BI expertise  
+- Deliver data-driven business insights  
+
+---
+
+## 📬 Contact Me
+
+📧 Email: athul9448@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/athul-pt-6a5310341  
+
+---
+
+⭐ Thanks for visiting my GitHub! Feel free to explore my projects and connect with me.
